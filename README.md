@@ -1,4 +1,4 @@
-# projects
+# Projects
 The following files are a showcase of projects I have worked on in the past. 
 
 - BST_AVL:
