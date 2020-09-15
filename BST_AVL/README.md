@@ -1,0 +1,1 @@
+This project first consisted of creating a BST and AVL tree using that BST class. Then, I worked towards using that AVL tree and implementing an algorithm that found a way to color a map of countries with only four colors total.
